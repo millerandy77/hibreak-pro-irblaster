@@ -1,0 +1,92 @@
+[
+  {
+    "deviceType": 13056,
+    "brand_stride": 360,
+    "ptr_addr": 106049016,
+    "info_table": null
+  },
+  {
+    "deviceType": 10496,
+    "brand_stride": 1752,
+    "ptr_addr": 106049024,
+    "info_table": null
+  },
+  {
+    "deviceType": 40960,
+    "brand_stride": 448,
+    "ptr_addr": 106049048,
+    "info_table": null
+  },
+  {
+    "deviceType": 8960,
+    "brand_stride": 56,
+    "ptr_addr": 106049036,
+    "info_table": null
+  },
+  {
+    "deviceType": 24576,
+    "brand_stride": 5208,
+    "ptr_addr": 106049056,
+    "info_table": null
+  },
+  {
+    "deviceType": 12032,
+    "brand_stride": 76,
+    "ptr_addr": 106049028,
+    "info_table": null
+  },
+  {
+    "deviceType": 57344,
+    "brand_stride": 360,
+    "ptr_addr": 106049016,
+    "info_table": null
+  },
+  {
+    "deviceType": 57344,
+    "brand_stride": 48,
+    "ptr_addr": 106049020,
+    "info_table": null
+  },
+  {
+    "deviceType": 57344,
+    "brand_stride": 80,
+    "ptr_addr": 106049032,
+    "info_table": null
+  },
+  {
+    "deviceType": 57344,
+    "brand_stride": 836,
+    "ptr_addr": 106049052,
+    "info_table": null
+  },
+  {
+    "deviceType": 57344,
+    "brand_stride": 8648,
+    "ptr_addr": 106049064,
+    "info_table": null
+  },
+  {
+    "deviceType": 57344,
+    "brand_stride": 960,
+    "ptr_addr": 106049040,
+    "info_table": null
+  },
+  {
+    "deviceType": 57344,
+    "brand_stride": 2204,
+    "ptr_addr": 106049060,
+    "info_table": null
+  },
+  {
+    "deviceType": 57344,
+    "brand_stride": 56,
+    "ptr_addr": 106049036,
+    "info_table": null
+  },
+  {
+    "deviceType": 57344,
+    "brand_stride": 1608,
+    "ptr_addr": 106049044,
+    "info_table": null
+  }
+]

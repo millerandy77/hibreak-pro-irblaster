@@ -1,0 +1,122 @@
+[
+  {
+    "deviceType": 13056,
+    "stride": 360,
+    "ptr_slot": 106049016,
+    "info_symbol": "remote_Lamp_info",
+    "info_vaddr": 106033676,
+    "info_size": 9000
+  },
+  {
+    "deviceType": 10496,
+    "stride": 1752,
+    "ptr_slot": 106049024,
+    "info_symbol": "remote_Audio_info",
+    "info_vaddr": 105321740,
+    "info_size": 504576
+  },
+  {
+    "deviceType": 40960,
+    "stride": 448,
+    "ptr_slot": 106049048,
+    "info_symbol": "remote_pjt_info",
+    "info_vaddr": 651540,
+    "info_size": 76608
+  },
+  {
+    "deviceType": 8960,
+    "stride": 56,
+    "ptr_slot": 106049036,
+    "info_symbol": "remote_SLR_info",
+    "info_vaddr": 103664796,
+    "info_size": 784
+  },
+  {
+    "deviceType": 24576,
+    "stride": 5208,
+    "ptr_slot": 106049056,
+    "info_symbol": "remote_dvd_info",
+    "info_vaddr": 35521640,
+    "info_size": 3202920
+  },
+  {
+    "deviceType": 12032,
+    "stride": 76,
+    "ptr_slot": 106049028,
+    "info_symbol": "remote_Water_Heater_info",
+    "info_vaddr": 103711908,
+    "info_size": 1064
+  },
+  {
+    "deviceType": 57344,
+    "stride": 360,
+    "ptr_slot": 106049016,
+    "info_symbol": "remote_Lamp_info",
+    "info_vaddr": 106033676,
+    "info_size": 9000
+  },
+  {
+    "deviceType": 57344,
+    "stride": 48,
+    "ptr_slot": 106049020,
+    "info_symbol": "remote_robotcleaner_info",
+    "info_vaddr": 105850696,
+    "info_size": 576
+  },
+  {
+    "deviceType": 57344,
+    "stride": 80,
+    "ptr_slot": 106049032,
+    "info_symbol": "remote_air_purifier_info",
+    "info_vaddr": 103699248,
+    "info_size": 1360
+  },
+  {
+    "deviceType": 57344,
+    "stride": 836,
+    "ptr_slot": 106049052,
+    "info_symbol": "remote_fan_info",
+    "info_vaddr": 2075448,
+    "info_size": 135432
+  },
+  {
+    "deviceType": 57344,
+    "stride": 8648,
+    "ptr_slot": 106049064,
+    "info_symbol": "TV_info",
+    "info_vaddr": 83608408,
+    "info_size": 9460912
+  },
+  {
+    "deviceType": 57344,
+    "stride": 960,
+    "ptr_slot": 106049040,
+    "info_symbol": "remote_IPTV_info",
+    "info_vaddr": 103526052,
+    "info_size": 137280
+  },
+  {
+    "deviceType": 57344,
+    "stride": 2204,
+    "ptr_slot": 106049060,
+    "info_symbol": "remote_stb_info",
+    "info_vaddr": 25051056,
+    "info_size": 4125888
+  },
+  {
+    "deviceType": 57344,
+    "stride": 56,
+    "ptr_slot": 106049036,
+    "info_symbol": "remote_SLR_info",
+    "info_vaddr": 103664796,
+    "info_size": 784
+  },
+  {
+    "deviceType": 57344,
+    "stride": 1608,
+    "ptr_slot": 106049044,
+    "info_symbol": "g_remote_arc_info",
+    "info_vaddr": 100304824,
+    "info_size": 699480
+  }
+]

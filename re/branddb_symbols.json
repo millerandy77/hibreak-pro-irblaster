@@ -1,0 +1,326 @@
+[
+  {
+    "slot": 106049008,
+    "symbol": "m_path",
+    "vaddr": 106049656,
+    "size": 256
+  },
+  {
+    "slot": 106049012,
+    "symbol": "__stack_chk_guard",
+    "vaddr": 0,
+    "size": 0
+  },
+  {
+    "slot": 106049016,
+    "symbol": "remote_Lamp_info",
+    "vaddr": 106033676,
+    "size": 9000
+  },
+  {
+    "slot": 106049020,
+    "symbol": "remote_robotcleaner_info",
+    "vaddr": 105850696,
+    "size": 576
+  },
+  {
+    "slot": 106049024,
+    "symbol": "remote_Audio_info",
+    "vaddr": 105321740,
+    "size": 504576
+  },
+  {
+    "slot": 106049028,
+    "symbol": "remote_Water_Heater_info",
+    "vaddr": 103711908,
+    "size": 1064
+  },
+  {
+    "slot": 106049032,
+    "symbol": "remote_air_purifier_info",
+    "vaddr": 103699248,
+    "size": 1360
+  },
+  {
+    "slot": 106049036,
+    "symbol": "remote_SLR_info",
+    "vaddr": 103664796,
+    "size": 784
+  },
+  {
+    "slot": 106049040,
+    "symbol": "remote_IPTV_info",
+    "vaddr": 103526052,
+    "size": 137280
+  },
+  {
+    "slot": 106049044,
+    "symbol": "g_remote_arc_info",
+    "vaddr": 100304824,
+    "size": 699480
+  },
+  {
+    "slot": 106049048,
+    "symbol": "remote_pjt_info",
+    "vaddr": 651540,
+    "size": 76608
+  },
+  {
+    "slot": 106049052,
+    "symbol": "remote_fan_info",
+    "vaddr": 2075448,
+    "size": 135432
+  },
+  {
+    "slot": 106049056,
+    "symbol": "remote_dvd_info",
+    "vaddr": 35521640,
+    "size": 3202920
+  },
+  {
+    "slot": 106049060,
+    "symbol": "remote_stb_info",
+    "vaddr": 25051056,
+    "size": 4125888
+  },
+  {
+    "slot": 106049064,
+    "symbol": "TV_info",
+    "vaddr": 83608408,
+    "size": 9460912
+  },
+  {
+    "slot": 106049068,
+    "symbol": "remote_Lamp_2_info",
+    "vaddr": 106042676,
+    "size": 696
+  },
+  {
+    "slot": 106049072,
+    "symbol": "remote_robotcleaner_2_info",
+    "vaddr": 105851272,
+    "size": 152
+  },
+  {
+    "slot": 106049076,
+    "symbol": "remote_Audio_2_info",
+    "vaddr": 105826316,
+    "size": 80
+  },
+  {
+    "slot": 106049080,
+    "symbol": "remote_Water_Heater_2_info",
+    "vaddr": 103712972,
+    "size": 48
+  },
+  {
+    "slot": 106049084,
+    "symbol": "remote_air_purifier_2_info",
+    "vaddr": 103700608,
+    "size": 48
+  },
+  {
+    "slot": 106049088,
+    "symbol": "remote_SLR_2_info",
+    "vaddr": 103665580,
+    "size": 48
+  },
+  {
+    "slot": 106049092,
+    "symbol": "remote_IPTV_2_info",
+    "vaddr": 103663332,
+    "size": 824
+  },
+  {
+    "slot": 106049096,
+    "symbol": "g_remote_arc_2_info",
+    "vaddr": 101004304,
+    "size": 18672
+  },
+  {
+    "slot": 106049100,
+    "symbol": "remote_pjt_2_info",
+    "vaddr": 728148,
+    "size": 336
+  },
+  {
+    "slot": 106049104,
+    "symbol": "remote_fan_2_info",
+    "vaddr": 2210880,
+    "size": 792
+  },
+  {
+    "slot": 106049108,
+    "symbol": "remote_dvd_2_info",
+    "vaddr": 38724560,
+    "size": 2160
+  },
+  {
+    "slot": 106049112,
+    "symbol": "remote_stb_2_info",
+    "vaddr": 29176944,
+    "size": 2624
+  },
+  {
+    "slot": 106049116,
+    "symbol": "remote_tv_info",
+    "vaddr": 93069320,
+    "size": 30704
+  },
+  {
+    "slot": 106049120,
+    "symbol": "g_remote_arc_3_info",
+    "vaddr": 101022976,
+    "size": 1792200
+  },
+  {
+    "slot": 106049124,
+    "symbol": "remote_Lamp_table",
+    "vaddr": 105851424,
+    "size": 182250
+  },
+  {
+    "slot": 106049128,
+    "symbol": "remote_Audio_table",
+    "vaddr": 103713020,
+    "size": 1608717
+  },
+  {
+    "slot": 106049132,
+    "symbol": "stb_pjt_table",
+    "vaddr": 29680,
+    "size": 621859
+  },
+  {
+    "slot": 106049136,
+    "symbol": "remote_SLR_table",
+    "vaddr": 103664156,
+    "size": 637
+  },
+  {
+    "slot": 106049140,
+    "symbol": "dvd_data_table",
+    "vaddr": 29179568,
+    "size": 6342070
+  },
+  {
+    "slot": 106049144,
+    "symbol": "remote_Water_Heater_table",
+    "vaddr": 103700656,
+    "size": 11250
+  },
+  {
+    "slot": 106049148,
+    "symbol": "remote_air_purifier_table",
+    "vaddr": 103665628,
+    "size": 33620
+  },
+  {
+    "slot": 106049152,
+    "symbol": "remote_robotcleaner_table",
+    "vaddr": 105826396,
+    "size": 24299
+  },
+  {
+    "slot": 106049156,
+    "symbol": "stb_fan_table",
+    "vaddr": 728484,
+    "size": 1346961
+  },
+  {
+    "slot": 106049160,
+    "symbol": "tv_table",
+    "vaddr": 38726720,
+    "size": 44881686
+  },
+  {
+    "slot": 106049164,
+    "symbol": "remote_IPTV_table",
+    "vaddr": 102815176,
+    "size": 710875
+  },
+  {
+    "slot": 106049168,
+    "symbol": "arc_table",
+    "vaddr": 93100024,
+    "size": 7204800
+  },
+  {
+    "slot": 106049172,
+    "symbol": "stb_data_table",
+    "vaddr": 2211672,
+    "size": 22839381
+  },
+  {
+    "slot": 106049176,
+    "symbol": "g_i2c_cmd_buffer",
+    "vaddr": 106049540,
+    "size": 112
+  },
+  {
+    "slot": 106049180,
+    "symbol": "g_toggle_bit",
+    "vaddr": 106049652,
+    "size": 1
+  },
+  {
+    "slot": 106049184,
+    "symbol": "code_format",
+    "vaddr": 106043403,
+    "size": 696
+  },
+  {
+    "slot": 106049188,
+    "symbol": "cntx",
+    "vaddr": 106049912,
+    "size": 4
+  },
+  {
+    "slot": 106049192,
+    "symbol": "ToggleBit_Place",
+    "vaddr": 106043396,
+    "size": 7
+  },
+  {
+    "slot": 106049196,
+    "symbol": "cnty",
+    "vaddr": 106049916,
+    "size": 4
+  },
+  {
+    "slot": 106049200,
+    "symbol": "STandantdata",
+    "vaddr": 106043380,
+    "size": 16
+  },
+  {
+    "slot": 106049204,
+    "symbol": "__aeabi_unwind_cpp_pr0",
+    "vaddr": 26608,
+    "size": 8
+  },
+  {
+    "slot": 106049208,
+    "symbol": "__aeabi_unwind_cpp_pr1",
+    "vaddr": 26616,
+    "size": 8
+  },
+  {
+    "slot": 106049212,
+    "symbol": "__aeabi_unwind_cpp_pr2",
+    "vaddr": 26624,
+    "size": 8
+  },
+  {
+    "slot": 106049216,
+    "symbol": "__gnu_Unwind_Find_exidx",
+    "vaddr": 0,
+    "size": 0
+  },
+  {
+    "slot": 106049228,
+    "symbol": "__cxa_call_unexpected",
+    "vaddr": 0,
+    "size": 0
+  }
+]
