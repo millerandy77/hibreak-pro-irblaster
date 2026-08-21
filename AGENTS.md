@@ -7,12 +7,14 @@ for the **Bigme Hibreak Pro** (Android 14, E-ink phone with a built-in IR blaste
 
 ## Read these first (in order)
 
-1. [`README.md`](README.md) — project overview + status table.
-2. [`docs/REVERSE_ENGINEERING.md`](docs/REVERSE_ENGINEERING.md) — the RE bible. Frame
+1. [`docs/HANDOFF.md`](docs/HANDOFF.md) — **start here**: current state of the work and the
+   ordered continuation plan (what's proven, what's pending, dead ends not to retry).
+2. [`README.md`](README.md) — project overview + status table.
+3. [`docs/REVERSE_ENGINEERING.md`](docs/REVERSE_ENGINEERING.md) — the RE bible. Frame
    formats, DSP pipeline, vendor learn/TX flows, brand-DB layout, toggle-bit tables.
-3. [`docs/VALIDATION.md`](docs/VALIDATION.md) — hardware validation checklist (what's proven
+4. [`docs/VALIDATION.md`](docs/VALIDATION.md) — hardware validation checklist (what's proven
    on-device vs. what still needs a human with the phone + a remote).
-4. [`BUILD.md`](BUILD.md) — toolchain setup (macOS arm64, no Android Studio), the
+5. [`BUILD.md`](BUILD.md) — toolchain setup (macOS arm64, no Android Studio), the
    `targetSdk=27` SELinux workaround, jniLibs instructions.
 
 ## Repo layout
